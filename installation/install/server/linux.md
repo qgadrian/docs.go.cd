@@ -4,7 +4,7 @@
 
 Installation of the GoCD server using the package manager will require root access on the machine. You are also required to have a java version 8 for the server to run.
 
-The installer will create a user called ```go``` if one does not exist on the machine. The home directory will be set to ```/var/go```. If you want to create your own ```go``` user, make sure you do it before you install the GoCD server.
+The installer will create a user called ```go``` if one does not exist on the machine. The home directory will be set to ```/home/go```. If you want to create your own ```go``` user, make sure you do it before you install the GoCD server.
 
 ## RPM based distributions (ie RedHat/CentOS/Fedora)
 
